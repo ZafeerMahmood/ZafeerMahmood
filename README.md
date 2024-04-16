@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!SS](![image](https://github.com/ZafeerMahmood/ZafeerMahmood/assets/110195877/8a9f6160-a13c-4907-822c-76e44f43c5f2))
+![SS](![image](https://github.com/ZafeerMahmood/ZafeerMahmood/assets/110195877/8a9f6160-a13c-4907-822c-76e44f43c5f2))
 <!--
 **ZafeerMahmood/ZafeerMahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
