@@ -1,5 +1,5 @@
 ![SS](https://raw.githubusercontent.com/ZafeerMahmood/ZafeerMahmood/main/image.png)
-![Company Github Account](https://github.com/ZafeerTaxGPT)
+[Company Github Account](https://github.com/ZafeerTaxGPT)
 <!--
 **ZafeerMahmood/ZafeerMahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
